@@ -67,7 +67,7 @@ pytest -q
 
 ## Image source
 
-Images are publicly available here [https://www.10xgenomics.com/datasets/xenium-ffpe-human-breast-biomarkers].
+Images are publicly available [here](https://www.10xgenomics.com/datasets/xenium-ffpe-human-breast-biomarkers).
 
 ## License
 
