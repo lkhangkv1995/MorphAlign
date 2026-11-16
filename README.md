@@ -65,10 +65,6 @@ Generic structural edges can fail when two imaging modalities highlight entirely
 pytest -q
 ```
 
-## Repository status
-
-This ZIP is prepared for GitHub but is **not a published GitHub repository**. We have not pushed to your GitHub account. The example data contain real imagery furnished for this demonstration; confirm that you have rights to publish those images before making the repository public.
-
 ## License
 
 MIT for source code; the example images are **not** licensed for redistribution under MIT by default. Image reuse requires appropriate permission.
