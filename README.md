@@ -8,6 +8,14 @@
 - The **same spatial mapping** is applied to every original channel of image 2; output dimensions follow image 1 and original moving dtype is preserved.
 - We include two **real microscopy examples** at `examples/image1.tiff` and `examples/image2.tiff`, downsampled from the user-provided H&E and DAPI TIFFs. File names and registration API do not encode their modalities. These are examples, **not registered ground truth**, and should not be published without appropriate image-sharing authorization.
 
+![MorphAlign registration demonstration](output/demo.png)
+
+*Example of MorphAlign registration showing the reference image,
+moving image, and registration results using global affine alignment
+and optional deformable refinement.*
+
+
+
 ## Start the interactive web demo
 
 ```bash
