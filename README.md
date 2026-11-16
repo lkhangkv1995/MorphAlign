@@ -65,6 +65,10 @@ Generic structural edges can fail when two imaging modalities highlight entirely
 pytest -q
 ```
 
+## Image source
+
+Images are publicly available here [https://www.10xgenomics.com/datasets/xenium-ffpe-human-breast-biomarkers].
+
 ## License
 
 MIT for source code; the example images are **not** licensed for redistribution under MIT by default. Image reuse requires appropriate permission.
