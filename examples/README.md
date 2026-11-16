@@ -1,0 +1,1 @@
+These files are downsampled from the user-provided real microscopy images, relabeled generically as image1.tiff (reference) and image2.tiff (moving). Their appearance is H&E and DAPI respectively; this is not encoded in the registration interface. Please verify redistribution rights before publishing these real data.

@@ -1,0 +1,50 @@
+{
+  "reference_shape": [
+    453,
+    1152,
+    3
+  ],
+  "moving_shape": [
+    1165,
+    1749
+  ],
+  "registered_shape": [
+    453,
+    1152
+  ],
+  "moving_dtype": "uint16",
+  "feature_mode": "multichannel",
+  "affine_parameters": {
+    "scale_x": 0.7208634242105451,
+    "scale_y": 0.5888560631477202,
+    "angle_deg": 17.557160063415978,
+    "translate_x": -7.952082275412977,
+    "translate_y": 0.8202592495945282
+  },
+  "affine_matrix_reference_to_moving": [
+    [
+      1.0434532032384922,
+      0.2696870197739457,
+      204.59133279192304
+    ],
+    [
+      -0.33014436074612424,
+      0.8523719260840646,
+      580.1822835639904
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "affine_ncc": 0.85297030210495,
+  "affine_reference_coverage": 0.9869993329048157,
+  "deformation_enabled": true,
+  "deformation_max_displacement_px": 30.0,
+  "deformation_controls_shape": [
+    2,
+    7,
+    31
+  ]
+}
